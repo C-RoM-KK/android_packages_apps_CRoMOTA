@@ -70,7 +70,7 @@ import com.crom.cromota.widget.Card;
 public class MainActivity extends Activity implements UpdaterListener, DownloadCallback, OnItemClickListener {
 
     private static final String CHANGELOG = "http://www.c-rom.org/portal.php";
-    private static final String GOOGLEPLUS = "https://plus.google.com/communities/112514149478109338346";
+    private static final String GOOGLEPLUS = "https://plus.google.com/communities/102026782062296701405";
     private static final String STATE = "STATE";
 
     public static final int STATE_UPDATES = 0;
